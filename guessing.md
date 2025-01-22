@@ -1,7 +1,7 @@
-### Guessing a number 1 through 10
+### Guessing a number 1 through 100
 ```mermaid  
 flowchart TD  
-A[Start Game] --> B[Initialize Secret Number 1 - 10]
+A[Start Game] --> B[Initialize Secret Number 1 - 100]
 B --> C[Prompt User Input]
 C --> D[Check if user input is valid]  
 D --> E([No])
